@@ -2,5 +2,5 @@ This is the first paragraph for the full description text with some modification
 to make it look like a full paragraph. Last line was deleted
 Onto the next paragraph, this one will get modified now because question 8 requests it. I guess I'll give 
 this paragraph one or two more sentences to make it seem close the first 
-paragraph.Deleted the middle sentence of the one middle paragraph.
+paragraph. Deleted the middle sentence of the one middle paragraph. This line is new.
 Now the last paragraph, the conclusion one. This one will be the conclusion to the full description text that is to have exactly three paragraphs.New line here. Deleted line here.
